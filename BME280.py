@@ -6,6 +6,7 @@ time.sleep(3)
 ser.reset_input_buffer()
 print("Serial communication is set and ready to go!")
 
+
 time_intervals = 1
 horizon = 0.2
 meanT_over_Horizon = []
